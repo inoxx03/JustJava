@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="blank_name_toast">Musíte zadat jméno.</string>
+    <string name="chocolate">s čokoládou</string>
+    <string name="creating_email">Příprava objednávky...</string>
+    <string name="edit_text_name_placeholder">Jméno</string>
+    <string name="email_subject_line">Just Java objednávka na jméno&#160;<xliff:g id="order_name" example="Jimmy">%s</xliff:g></string>
+    <string name="field_chocolate">s čokoládou?&#160;</string>
+    <string name="field_name">Jméno: <xliff:g id="name" example="Jimmy">%s</xliff:g>&#160;</string>
+    <string name="field_quantity">Počet:&#160;</string>
+    <string name="field_total">Cena:&#160;</string>
+    <string name="field_whipped_cream">se šlehačkou?&#160;</string>
+    <string name="no">Ne</string>
+    <string name="quantity">Množství</string>
+    <string name="quantity_max_limit">Nemůžete objednat více než 100 šálků.</string>
+    <string name="quantity_min_limit">Musíte objednat alespoň 1 šálek.</string>
+    <string name="submit_order">Odeslat</string>
+    <string name="thank_you">Děkujeme.</string>
+    <string name="toppings">Doplňky</string>
+    <string name="whipped_cream">se šlehačkou?&#160;</string>
+    <string name="yes">Ano</string>
+</resources>

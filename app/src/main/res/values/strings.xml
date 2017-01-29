@@ -1,0 +1,22 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="edit_text_name_placeholder">Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="submit_order">Order</string>
+    <string name="blank_name_toast">Name cannot be left blank!</string>
+    <string name="creating_email">Creating order email…</string>
+    <string name="quantity_max_limit">Order quantity cannot exceed 100 cups!</string>
+    <string name="quantity_min_limit">Order quantity cannot be less than 1!</string>
+    <string name="email_subject_line">Just Java Order for&#160;<xliff:g id="order_name" example="Jimmy">%s</xliff:g>&#160;</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="field_name">Name: <xliff:g id="name" example="Jimmy">%s</xliff:g>&#160;</string>
+    <string name="field_whipped_cream">Whipped Cream?&#160;<xliff:g id="text_whipped_Cream" example="Yes">%s</xliff:g></string>
+    <string name="field_chocolate">Chocolate?&#160;<xliff:g id="text_chocolate" example="no">%s</xliff:g></string>
+    <string name="field_quantity">Quantity:&#160;<xliff:g id="number_quantity">%d</xliff:g></string>
+    <string name="field_total">Total:&#160;<xliff:g id="number_price">%d</xliff:g></string>
+    <string name="thank_you">Thank you!</string>
+</resources>
